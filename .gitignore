@@ -1,2 +1,7 @@
 plan.md
 .idea/
+
+# Local secrets (e.g. backend/deployments/.env for Docker Compose)
+.env
+.env.*
+!.env.example
