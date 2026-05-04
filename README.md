@@ -13,7 +13,7 @@ JobHunter is a job-hunting platform.
 
 ## Repository structure
 - `frontend/` - React application
-- `backend/` - Go services, gateway, infrastructure, and shared contracts
+- `backend/` - Go services, gateway, infrastructure, and shared contracts (local Docker infra: [`docs/infrastructure.md`](docs/infrastructure.md))
 - `docs/` - project notes and architecture documents
 
 ## Branch workflow
